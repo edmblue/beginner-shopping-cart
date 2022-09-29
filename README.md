@@ -8,6 +8,6 @@ This project is the first step
 
 It was really fun to learn and do
 
-Getting to know new methods as .map and .filter, and understanding the logic of doind every step 
+Getting to know new methods as .map and .filter, and understanding the logic of doing every step 
 
 watch live: https://beginnershoppingcart.netlify.app/#
