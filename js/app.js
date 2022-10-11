@@ -13,7 +13,7 @@ function callEventListeners() {
 }
 
 function startApp() {
-  listaCarrito = JSON.parse(localStorage.getItem('listaCarrito') || '[]');
+  listaCarrito = JSON.parse(localStorage.getItem('listaCarrito')) || '[]';
   listaCarritoHTML();
 }
 
